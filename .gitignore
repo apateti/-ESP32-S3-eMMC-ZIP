@@ -1,0 +1,32 @@
+# Arduino build files
+*.hex
+*.bin
+*.elf
+*.eep
+*.lst
+*.map
+
+# Build directories
+build/
+debug/
+release/
+
+# macOS
+.DS_Store
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+
+# IDE specific files
+.idea/
+.vscode/
+*.sublime-*
+
+# Logs
+*.log
+
+# OS files
+Thumbs.db
